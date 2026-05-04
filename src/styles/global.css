@@ -34,7 +34,9 @@
     overflow-y: auto;
     color-scheme: light;
     scroll-padding-top: 100px;
+    scrollbar-gutter: stable;
   }
+
 
   html.dark {
     color-scheme: dark;

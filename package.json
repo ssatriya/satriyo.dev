@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.1.13",
     "astro": "^5.13.9",
     "clsx": "^2.1.1",
+    "fslightbox": "^3.7.5",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.13",
     "typescript": "^5.9.2"
